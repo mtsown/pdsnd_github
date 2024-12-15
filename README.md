@@ -47,7 +47,7 @@ The **Chicago** and **New York City** files also have the following two columns:
 
    - counts of each user type
    - counts of each gender (only available for NYC and Chicago)
-   - earliest, most recent, most common year of birth (only available for NYC and Chicago)
+   - earliest, most recent, most common year of birth **(only available for NYC and Chicago)**
 
 
 ## Software Needs
